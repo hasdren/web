@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    justify-content: center;
+}
+.grid-item {
+    background-color: aqua;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-item:hover {
+background-color: burlywood;
+
+}
+
+
+h1 {
+    text-align: center;
+}
